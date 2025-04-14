@@ -16,5 +16,6 @@ pyrightconfig.json
 # Logs.
 gpu_monitor.log
 
-#PyCharm
+#PyCharm & Customized Settings
 .idea
+build
